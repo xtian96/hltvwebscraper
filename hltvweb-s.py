@@ -6,7 +6,7 @@ import time
 
 headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'}
 
-r = requests.get('https://www.hltv.org/stats/teams/matches/8297/FURIA?startDate=2020-02-20&endDate=2020-05-20' , headers=headers)
+r = requests.get('https://www.hltv.org/stats/teams/matches/9085/Chaos?startDate=2020-02-20&endDate=2020-05-20' , headers=headers)
 print (r)
 
 
@@ -64,7 +64,7 @@ for result in results[1:]:
     time.sleep(.1)
     cnt+=1
 
-df5 = df5[['date','event','Opponent','Map','Score','WinorLoss','PointDifference', 'Round01Result', '>3.5','<3.5','>-3.5','<-3.5']]
+df5 = df5[['date','event','opponent','Map','Score','WinorLoss','PointDifference', 'Round01Result']]
 df5 = df5.rename(columns={'date':'Date',
                           'event':'Event',
                           'WinorLoss':'Result',

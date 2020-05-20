@@ -1,47 +1,67 @@
-Date,Event,opponent,Map,Score,Result,Point Difference,Round1 Result,>2.5,<2.5,>-2.5,<-2.5,Total Win/Loss,
-10/5/2020,ESL One: Road to Rio - North America,Gen.G,Inferno,'9 - 16,L,-7,FURIA,23,23,35,11,30,W
-10/5/2020,ESL One: Road to Rio - North America,Gen.G,Vertigo,'16 - 12,W,4,Gen.G,W,L,W,L,16,L
-10/5/2020,ESL One: Road to Rio - North America,Gen.G,Train,'6 - 16,L,-10,Gen.G,,,,,,
-9/5/2020,ESL One: Road to Rio - North America,Liquid,Vertigo,'16 - 12,W,4,Liquid,,,,,,
-9/5/2020,ESL One: Road to Rio - North America,Liquid,Overpass,'16 - 14,W,2,Liquid,,,,,,
-3/5/2020,ESL One: Road to Rio - North America,MIBR,Vertigo,'16 - 10,W,6,MIBR,,,,,,
-3/5/2020,ESL One: Road to Rio - North America,MIBR,Inferno,'16 - 14,W,2,MIBR,,,,,,
-1/5/2020,ESL One: Road to Rio - North America,Liquid,Inferno,'16 - 13,W,3,Liquid,,,,,,
-1/5/2020,ESL One: Road to Rio - North America,Liquid,Vertigo,'16 - 5,W,11,FURIA,,,,,,
-29/04/20,ESL One: Road to Rio - North America,Yeah,Nuke,'16 - 9,W,7,FURIA,,,,,,
-29/04/20,ESL One: Road to Rio - North America,Yeah,Mirage,'16 - 12,W,4,FURIA,,,,,,
-29/04/20,ESL One: Road to Rio - North America,Yeah,Inferno,'14 - 16,L,-2,FURIA,,,,,,
-25/04/20,ESL One: Road to Rio - North America,Bad News Bears,Mirage,'16 - 8,W,8,Bad News Bears,,,,,,
-25/04/20,ESL One: Road to Rio - North America,Bad News Bears,Inferno,'16 - 12,W,4,FURIA,,,,,,
-23/04/20,ESL One: Road to Rio - North America,Envy,Inferno,'16 - 6,W,10,FURIA,,,,,,
-23/04/20,ESL One: Road to Rio - North America,Envy,Mirage,'16 - 9,W,7,FURIA,,,,,,
-23/04/20,ESL One: Road to Rio - North America,Envy,Nuke,'20 - 22,L,-2,Envy,,,,,,
-11/4/2020,ESL Pro League Season 11 North America,Evil Geniuses,Inferno,'14 - 16,L,-2,Evil Geniuses,,,,,,
-11/4/2020,ESL Pro League Season 11 North America,Evil Geniuses,Vertigo,'10 - 16,L,-6,Evil Geniuses,,,,,,
-9/4/2020,ESL Pro League Season 11 North America,MIBR,Mirage,'16 - 14,W,2,MIBR,,,,,,
-9/4/2020,ESL Pro League Season 11 North America,MIBR,Vertigo,'16 - 4,W,12,FURIA,,,,,,
-3/4/2020,ESL Pro League Season 11 North America,100 Thieves,Nuke,'16 - 12,W,4,FURIA,,,,,,
-3/4/2020,ESL Pro League Season 11 North America,100 Thieves,Vertigo,'5 - 16,L,-11,FURIA,,,,,,
-3/4/2020,ESL Pro League Season 11 North America,100 Thieves,Mirage,'16 - 4,W,12,FURIA,,,,,,
-2/4/2020,ESL Pro League Season 11 North America,Swole Patrol,Nuke,'7 - 16,L,-9,FURIA,,,,,,
-2/4/2020,ESL Pro League Season 11 North America,Swole Patrol,Vertigo,'12 - 16,L,-4,Swole Patrol,,,,,,
-1/4/2020,ESL Pro League Season 11 North America,Evil Geniuses,Nuke,'13 - 16,L,-3,FURIA,,,,,,
-1/4/2020,ESL Pro League Season 11 North America,Evil Geniuses,Train,'14 - 16,L,-2,Evil Geniuses,,,,,,
-1/4/2020,ESL Pro League Season 11 North America,Evil Geniuses,Mirage,'16 - 8,W,8,Evil Geniuses,,,,,,
-30/03/20,ESL Pro League Season 11 North America,MIBR,Mirage,'16 - 8,W,8,MIBR,,,,,,
-30/03/20,ESL Pro League Season 11 North America,MIBR,Inferno,'6 - 16,L,-10,FURIA,,,,,,
-30/03/20,ESL Pro League Season 11 North America,MIBR,Train,'16 - 4,W,12,FURIA,,,,,,
-29/03/20,ESL Pro League Season 11 North America,Liquid,Mirage,'16 - 13,W,3,Liquid,,,,,,
-29/03/20,ESL Pro League Season 11 North America,Liquid,Inferno,'16 - 11,W,5,Liquid,,,,,,
-29/03/20,ESL Pro League Season 11 North America,Liquid,Nuke,'10 - 16,L,-6,Liquid,,,,,,
-7/3/2020,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Envy,Nuke,'16 - 7,W,9,FURIA,,,,,,
-7/3/2020,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Envy,Mirage,'16 - 11,W,5,Envy,,,,,,
-7/3/2020,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Triumph,Inferno,'16 - 11,W,5,FURIA,,,,,,
-7/3/2020,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Triumph,Overpass,'16 - 14,W,2,Triumph,,,,,,
-24/02/20,DreamHack Open Anaheim 2020,Gen.G,Inferno,'15 - 19,L,-4,FURIA,,,,,,
-24/02/20,DreamHack Open Anaheim 2020,Gen.G,Nuke,'7 - 16,L,-9,Gen.G,,,,,,
-23/02/20,DreamHack Open Anaheim 2020,Complexity,Nuke,'16 - 14,W,2,FURIA,,,,,,
-23/02/20,DreamHack Open Anaheim 2020,Complexity,Overpass,'16 - 11,W,5,FURIA,,,,,,
-23/02/20,DreamHack Open Anaheim 2020,Complexity,Mirage,'11 - 16,L,-5,Complexity,,,,,,
-22/02/20,DreamHack Open Anaheim 2020,North,Overpass,'16 - 3,W,13,FURIA,,,,,,
-21/02/20,DreamHack Open Anaheim 2020,Endpoint,Inferno,'16 - 6,W,10,Endpoint,,,,,,
+Date,Event,opponent,Map,Score,Result,Point Difference,Round1 Result
+19/05/20,DreamHack Masters Spring 2020 - North America,Liquid,Overpass,'16 - 13,W,3,Chaos
+19/05/20,DreamHack Masters Spring 2020 - North America,Liquid,Mirage,'16 - 11,W,5,Liquid
+19/05/20,DreamHack Masters Spring 2020 - North America,Liquid,Inferno,'4 - 16,L,-12,Liquid
+18/05/20,WINNERS League Season 4 North America,Warriors International,Overpass,'16 - 3,W,13,Chaos
+15/05/20,ESEA MDL Season 34 North America,Polar Ace,Mirage,'16 - 5,W,11,Polar Ace
+12/05/20,ESEA MDL Season 34 North America,AA,Inferno,'16 - 6,W,10,Chaos
+08/05/20,ESEA MDL Season 34 North America,Warriors International,Overpass,'16 - 2,W,14,Chaos
+07/05/20,ESEA MDL Season 34 North America,Swedish Canadians,Mirage,'14 - 16,L,-2,Swedish Canadians
+06/05/20,ESEA MDL Season 34 North America,Mythic,Inferno,'16 - 9,W,7,Mythic
+06/05/20,ESEA MDL Season 34 North America,Big Frames,Dust2,'16 - 2,W,14,Chaos
+11/04/20,Flashpoint 1,Orgless,Inferno,'8 - 16,L,-8,Orgless
+11/04/20,Flashpoint 1,Orgless,Train,'17 - 19,L,-2,Chaos
+10/04/20,Flashpoint 1,HAVU,Train,'8 - 16,L,-8,HAVU
+10/04/20,Flashpoint 1,HAVU,Overpass,'3 - 16,L,-13,Chaos
+02/04/20,Flashpoint 1,FunPlus Phoenix,Train,'12 - 16,L,-4,Chaos
+02/04/20,Flashpoint 1,FunPlus Phoenix,Nuke,'9 - 16,L,-7,FunPlus Phoenix
+02/04/20,Flashpoint 1,FunPlus Phoenix,Inferno,'16 - 11,W,5,FunPlus Phoenix
+29/03/20,Flashpoint 1,MAD Lions,Nuke,'10 - 16,L,-6,MAD Lions
+29/03/20,Flashpoint 1,MAD Lions,Dust2,'14 - 16,L,-2,Chaos
+24/03/20,Flashpoint 1,MIBR,Dust2,'8 - 16,L,-8,MIBR
+24/03/20,Flashpoint 1,MIBR,Inferno,'16 - 12,W,4,MIBR
+24/03/20,Flashpoint 1,MIBR,Overpass,'7 - 16,L,-9,MIBR
+21/03/20,Flashpoint 1,Gen.G,Mirage,'16 - 12,W,4,Gen.G
+21/03/20,Flashpoint 1,Gen.G,Inferno,'16 - 11,W,5,Gen.G
+19/03/20,ESEA MDL Season 33 North America,TeamOne,Overpass,'13 - 16,L,-3,TeamOne
+19/03/20,ESEA MDL Season 33 North America,TeamOne,Mirage,'19 - 17,W,2,Chaos
+19/03/20,ESEA MDL Season 33 North America,TeamOne,Nuke,'13 - 16,L,-3,Chaos
+18/03/20,ESEA MDL Season 33 North America,Mythic,Inferno,'16 - 9,W,7,Chaos
+18/03/20,ESEA MDL Season 33 North America,Mythic,Overpass,'16 - 13,W,3,Mythic
+18/03/20,ESEA MDL Season 33 North America,Triumph,Overpass,'7 - 16,L,-9,Triumph
+18/03/20,ESEA MDL Season 33 North America,Triumph,Inferno,'16 - 19,L,-3,Triumph
+16/03/20,ESEA MDL Season 33 North America,In The Lab,Dust2,'16 - 1,W,15,Chaos
+16/03/20,ESEA MDL Season 33 North America,Monstars,Inferno,'16 - 12,W,4,Chaos
+15/03/20,ESEA MDL Season 33 North America,Big Frames,Overpass,'16 - 13,W,3,Chaos
+15/03/20,ESEA MDL Season 33 North America,Oceanus,Dust2,'16 - 8,W,8,Chaos
+14/03/20,Flashpoint 1,MIBR,Nuke,'16 - 14,W,2,MIBR
+14/03/20,Flashpoint 1,MIBR,Train,'16 - 6,W,10,MIBR
+14/03/20,ESEA MDL Season 33 North America,Triumph,Nuke,'8 - 16,L,-8,Triumph
+14/03/20,ESEA MDL Season 33 North America,TeamOne,Inferno,'16 - 3,W,13,TeamOne
+13/03/20,ESEA MDL Season 33 North America,Thunder Logic,Nuke,'16 - 12,W,4,Chaos
+13/03/20,ESEA MDL Season 33 North America,New England Whalers,Nuke,'16 - 10,W,6,Chaos
+12/03/20,ESEA MDL Season 33 North America,District 7,Mirage,'16 - 13,W,3,Chaos
+12/03/20,ESEA MDL Season 33 North America,Swole Identity,Dust2,'14 - 16,L,-2,Chaos
+11/03/20,ESEA MDL Season 33 North America,Infinity,Dust2,'16 - 8,W,8,Chaos
+10/03/20,ESEA MDL Season 33 North America,ex-eUnited,Nuke,'16 - 13,W,3,Chaos
+09/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Envy,Overpass,'10 - 16,L,-6,Chaos
+09/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Envy,Dust2,'16 - 19,L,-3,Chaos
+09/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Envy,Mirage,'22 - 18,W,4,Chaos
+08/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,LiViD,Nuke,'16 - 11,W,5,LiViD
+08/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,LiViD,Overpass,'16 - 8,W,8,Chaos
+07/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Mythic,Mirage,'7 - 16,L,-9,Chaos
+07/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Mythic,Nuke,'16 - 11,W,5,Mythic
+07/03/20,Americas Minor North America Closed Qualifier - ESL One Rio 2020,Mythic,Overpass,'7 - 16,L,-9,Mythic
+05/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Orgless,Inferno,'11 - 16,L,-5,Orgless
+05/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Orgless,Nuke,'16 - 12,W,4,Chaos
+05/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Orgless,Overpass,'6 - 16,L,-10,Chaos
+05/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Copenhagen Flames,Inferno,'16 - 2,W,14,Chaos
+05/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Copenhagen Flames,Nuke,'12 - 16,L,-4,Copenhagen Flames
+05/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Copenhagen Flames,Mirage,'16 - 10,W,6,Copenhagen Flames
+04/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Redemption POA,Inferno,'16 - 5,W,11,Redemption POA
+04/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,Redemption POA,Overpass,'16 - 11,W,5,Chaos
+03/03/20,Flashpoint 1 Global Qualifier - Pinnacle Open,HAVU,Overpass,'26 - 28,L,-2,Chaos
+02/03/20,ESEA MDL Season 33 North America,Bad News Bears,Dust2,'9 - 16,L,-7,Bad News Bears
+28/02/20,ESEA MDL Season 33 North America,Divine,Overpass,'16 - 11,W,5,Chaos
+27/02/20,ESEA MDL Season 33 North America,Under 21,Nuke,'10 - 16,L,-6,Under 21
+26/02/20,ESEA MDL Season 33 North America,Mythic,Dust2,'16 - 12,W,4,Mythic
